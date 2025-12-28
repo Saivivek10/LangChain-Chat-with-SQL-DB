@@ -13,6 +13,11 @@ This project demonstrates how to use [LangChain](https://github.com/hwchase17/la
 - A valid Groq API key
 - SQLite database file (`student.db`) or MySQL database credentials
 
+## Screenshot
+
+<img width="1512" height="982" alt="SQL Chat" src="https://github.com/user-attachments/assets/d470e4ad-35fc-4058-8f77-a5ebdb2599f5" />
+
+
 ## Installation
 1. Clone the repository:
    ```bash
